@@ -1,0 +1,36 @@
+Exercise 13:
+
+    Lausanne 16.7
+    Geneva 12.34
+    Nyon 13.4
+    Lausanne 14.7
+    Geneva 11.34
+    Nyon 14.2
+    Lausanne 13.2
+    Geneva 10.3
+    Nyon 11.3
+
+=>
+    "Lausanne":[16.7,14.7,13.2]
+    "Geneva":[12.34, ...]
+    "Nyon":[13.4, ...]
+    
+    
+Exercise 5:
+
+    words=["He", "does", "confess", "he", "feels", "himself", 
+    "distracted", "but", "from", "what", "cause", "he", "will", 
+    "by", "no", "means", "speak"]
+
+=>
+
+    2:['He', 'he', 'by', 'no'],
+    3:['but'],
+    4:['does', 'from', 'what', 'will'],
+    5:['feels', 'cause', 'means', 'speak'],
+    7:['confess', 'himself'],
+    10:['distracted']
+
+Exercise 4 or Exercise 9:
+
+    en_fr={"Sea":"Mer", "Wind":"Vent", ...}
